@@ -6,14 +6,20 @@
 ![The Avatar the Last Airbender logo][atla-logo]
 [_Avatar the Last Airbender_][atla-wiki], is an American animated series that Aired on Nickelodeon from 2005 to 2008. The series takes place in an "Asiatic-inspired" high fantasy world that is divided into four nations: the Water Tribe (inspired by Inuit and Yupik Cultures), the Earth Kingdom (inspired by monarchical China), the Air Nomads (inspired by Tibetan Buddhist Monks), and the Fire Nation (inspired by imperialist Japan). 
 
-Within the population of each of these nations are people known as "benders" who have the ability to control the elements associated with their homelands. The Avatar is a bender who has the ability to control all four of the elements, and is seen as the spiritual leader of the world who must keep the balance amongst the nations. The Avatar is reincarnated into one of the nations in the following cycle: water, earth, fire, air. 
+Within the population of each of these nations are people known as "benders" who have the ability to control the elements associated with their homelands. The Avatar is a bender who has the ability to control all four of the elements, and is seen as the spiritual leader of the world who must keep the balance amongst the nations. The Avatar is reincarnated into one of the nations in the following cycle: 
+1. water
+2. earth
+3. fire
+4. air 
 
 The show begins in _media res_, dropping the viewer into the fray of a 100-year world war. It is revealed that the Fire Nation had launched an attack on all of the other nations intended to assert dominance over the rest of the nations and gain control of the whole world. They were able to continue this fight for so long because the Avatar had dissapeared in the world's time of need. 
 
 The show follows the story of the newly returned Avatar and his quest to master all four elements in order to defeat the Fire Lord and bring peace and balance to the world. 
 
 The story takes place over three "books" or seasons— one for each additional element the Avatar, an airbender by birth, needs to master:
-water, earth, and fire.
+1. water
+2. earth
+3. fire
 
 The story is so revered for its ability to conquer tough themes such as "war, genocide, imperialism, colonialism and totalitarianism, gender discrimination and female empowerment, marginalization and oppression, spirituality, as well as the philosophical questions surrounding fate, destiny, and free will", while still maintaining its position as a children's tv series. (source)
 
