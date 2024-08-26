@@ -35,7 +35,7 @@ Ty Lee - A circus performer and formidable hand-to-hand combatant who's specialt
 [_Avatar the Last Airbender: Live in Concert_][atla-concert] was a multimodal experience. A small chamber orchestra performed selections from the soundtrack in real time with scenes from the show. What made this concert experience truly special is that despite the show's release 20 years ago, the only soundtrack widly avaiable is for the first "book" or season of the show, while the concert included selections from the other two books as well.
 
 ### The Logisitcs
-The orchestra is currently touring around the United States and is playing in symphony halls in major cities. This particular concert took place in the [Durham Performing Arts Center on Sunday August 25, 2024 at 6:30pm][https://www.dpacnc.com/events/detail/avatar-2024]. The show had a 2 hour and 40 minute run time, including a 20 minute intermission.
+The orchestra is currently touring around the United States and is playing in symphony halls in major cities. This particular concert took place in the [Durham Performing Arts Center on Sunday August 25, 2024 at 6:30pm][dpac]. The show had a 2 hour and 40 minute run time, including a 20 minute intermission.
 
 The concert itself was divded into three acts, one for each book of the show, plus an encore.
 
