@@ -3,7 +3,7 @@
 
 
 ## What is Avatar the Last Airbender?
-_Avatar the Last Airbender_, is an American animated series that Aired on Nickelodeon from 2005 to 2008. The series takes place in an "Asiatic-inspired" high fantasy world that is divided into four nations: the Water Tribe (inspired by Inuit and Yupik Cultures), the Earth Kingdom (inspired by monarchical China), the Air Nomads (inspired by Tibetan Buddhist Monks), and the Fire Nation (inspired by imperialist Japan). 
+[_Avatar the Last Airbender_][atla-wiki], is an American animated series that Aired on Nickelodeon from 2005 to 2008. The series takes place in an "Asiatic-inspired" high fantasy world that is divided into four nations: the Water Tribe (inspired by Inuit and Yupik Cultures), the Earth Kingdom (inspired by monarchical China), the Air Nomads (inspired by Tibetan Buddhist Monks), and the Fire Nation (inspired by imperialist Japan). 
 
 Within the population of each of these nations are people known as "benders" who have the ability to control the elements associated with their homelands. The Avatar is a bender who has the ability to control all four of the elements, and is seen as the spiritual leader of the world who must keep the balance amongst the nations. The Avatar is reincarnated into one of the nations in the following cycle: water, earth, fire, air. 
 
@@ -32,10 +32,10 @@ Ty Lee - A circus performer and formidable hand-to-hand combatant who's specialt
 
 
 ## What is _Avatar the Last Airbender: **Live in Concert**_?
-_Avatar the Last Airbender: Live in Concert_ was a multimodal experience. A small chamber orchestra performed selections from the soundtrack in real time with scenes from the show. What made this concert experience truly special is that despite the show's release 20 years ago, the only soundtrack widly avaiable is for the first "book" or season of the show, while the concert included selections from the other two books as well.
+[_Avatar the Last Airbender: Live in Concert_][atla-concert] was a multimodal experience. A small chamber orchestra performed selections from the soundtrack in real time with scenes from the show. What made this concert experience truly special is that despite the show's release 20 years ago, the only soundtrack widly avaiable is for the first "book" or season of the show, while the concert included selections from the other two books as well.
 
 ### The Logisitcs
-The orchestra is currently touring around the United States and is playing in symphony halls in major cities. This particular concert took place in the Durham Performing Arts Center on Sunday August 25, 2024 at 6:30pm. The show had a 2 hour and 40 minute run time, including a 20 minute intermission.
+The orchestra is currently touring around the United States and is playing in symphony halls in major cities. This particular concert took place in the [Durham Performing Arts Center on Sunday August 25, 2024 at 6:30pm][https://www.dpacnc.com/events/detail/avatar-2024]. The show had a 2 hour and 40 minute run time, including a 20 minute intermission.
 
 The concert itself was divded into three acts, one for each book of the show, plus an encore.
 
@@ -59,9 +59,13 @@ The experience itself was truly unlike any concert I had ever been to. The atmos
 
 What I found most impressive about the muscianship was the use of vocal percussion and chanting within certain pieces. Often these moments would go on for nearly a full minute and the amount of breath control and concentration required to accomplish such a feat is worth commending. Overall the production itself was beautifully executed and immensely enjoyable.
 
-
 ### The Not so Good
 While I understand the need to condense the show to fit within the 2 hour and 40 minute run time, I felt as though a few piovotal plot points were not fully developed and certain characters were not featured as often as they should be. For example, two memebers of Team Avatar, as the main group of characters that travel with Aang through his trainin are referred to in the show, Sokka and Toph each had one moment of solo feature, but then were scarely featured in the music and the visual scenes provided. Additionally certain characters were never formally introduced, but were featured in several scenes, such as Mai and Ty Lee, Azula's companions. This led to a disjointed version of the plot that meant that experience could only really be enjoyed by those who had seen the show before.
 
 ### The Final Verdit
 While there was definite room for improvement, the experience of _Avatar the Last Airbender: Live in Concert_ was one that I will not be soon to forget and has changed my perception of the soundtrack as a whole. I look forward to rewatching the show with the perspective I now have on the score behind the scenes.
+
+
+[atla-wiki]: https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender
+[atla-concert]: https://www.avatarinconcert.com/#about
+[dpac]: https://www.dpacnc.com/events/detail/avatar-2024
