@@ -26,17 +26,17 @@ While the Fire Nation as a whole is considered the enemy, the main antagonists o
 
 **Other notable characters include:** 
 * General Iroh (AKA Uncle Iroh)
- * A retired Fire Nation general, brother to Fire Lord Ozai, and Zuko's caretaker through his banishment
+    * A retired Fire Nation general, brother to Fire Lord Ozai, and Zuko's caretaker through his banishment
 * Suki and the Kyoshi Warriors
- * A group of Earth Kingdom warriors that follow the teachings of the previous Avatar from two cycles before Aang, Avatar Kyoshi. Suki is their leader who eventually joins the main trio to fight alongside the Avatar
+    * A group of Earth Kingdom warriors that follow the teachings of the previous Avatar from two cycles before Aang, Avatar Kyoshi. Suki is their leader who eventually joins the main trio to fight alongside the Avatar
 * Princess Yue
- * The Princess of the Northern Water Tribe who was saved from a deadly illness by the moon spirit Tui
+    * The Princess of the Northern Water Tribe who was saved from a deadly illness by the moon spirit Tui
 * Toph
- * The blind daughter of a wealth Earth Kingdom family and master earthbender that goes on to mentor Aang and help him to master Earth bending and invents a new subset of earthbending called metalbending which was previously thought to be impossible
+    * The blind daughter of a wealth Earth Kingdom family and master earthbender that goes on to mentor Aang and help him to master Earth bending and invents a new subset of earthbending called metalbending which was previously thought to be impossible
 * Mai
- * A skilled marksman who's weapon of choice are throwing knives, daughter of a Fire Nation noble, and companion of Azula
+    * A skilled marksman who's weapon of choice are throwing knives, daughter of a Fire Nation noble, and companion of Azula
 * Ty Lee
- * A circus performer and formidable hand-to-hand combatant who's specialty is chi-blocking who travels with and fights alongside Azula
+    * A circus performer and formidable hand-to-hand combatant who's specialty is chi-blocking who travels with and fights alongside Azula
 
 
 
