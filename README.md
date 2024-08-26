@@ -3,6 +3,7 @@
 
 
 ## What is Avatar the Last Airbender?
+![The Avatar the Last Airbender logo][atla-logo]
 [_Avatar the Last Airbender_][atla-wiki], is an American animated series that Aired on Nickelodeon from 2005 to 2008. The series takes place in an "Asiatic-inspired" high fantasy world that is divided into four nations: the Water Tribe (inspired by Inuit and Yupik Cultures), the Earth Kingdom (inspired by monarchical China), the Air Nomads (inspired by Tibetan Buddhist Monks), and the Fire Nation (inspired by imperialist Japan). 
 
 Within the population of each of these nations are people known as "benders" who have the ability to control the elements associated with their homelands. The Avatar is a bender who has the ability to control all four of the elements, and is seen as the spiritual leader of the world who must keep the balance amongst the nations. The Avatar is reincarnated into one of the nations in the following cycle: water, earth, fire, air. 
@@ -17,8 +18,10 @@ Water, Earth, and Fire.
 The story is so revered for its ability to conquer tough themes such as "war, genocide, imperialism, colonialism and totalitarianism, gender discrimination and female empowerment, marginalization and oppression, spirituality, as well as the philosophical questions surrounding fate, destiny, and free will", while still maintaining its position as a children's tv series. (source)
 
 ### The Characters
+![Katara, Aang, and Sokka from avatar the last airbender][katara-sokka-aang]
 The main trio of the show are: Aang, an air nomad by birth and the young avatar, Katara, the last surviving waterbender in the Souther Water Tribe, and Sokka, a non-bending Southern Water Tribe warrior and Katara's older brother.
 
+![Prince Zuko with Book 1 Hair][zuko] ![Comannder Zhao][zhao] ![Azula][azula] ![Fire Lord Ozai][ozai]
 While the Fire Nation as a whole is considered the enemy, the main antagonists of the show are Prince Zuko, the banished Fire Nation prince who was tasked with capturing the Avatar for the fire nation so that he could return home and regain his honor, Commander Zhao, a military leader loyal to the Fire Lord who wants to thwart Prince Zuko's mission to capture the Avatar while conquering the North Water Tribe, Princess Azula, Zuko's younger sister who's trauma has turned her into a ruthless and relentless solider for the fire nation, and Fire Lord Ozai, the leader of the Fire Nation who intends to end the war in conquest no matter the cost.
 
 **Other notable characters include:** 
@@ -32,6 +35,7 @@ Ty Lee - A circus performer and formidable hand-to-hand combatant who's specialt
 
 
 ## What is _Avatar the Last Airbender: **Live in Concert**_?
+![A poster for Avatar the Last Airbender live in concert featuring Aang floating in the sunset colored sky][atla-concert-poster]
 [_Avatar the Last Airbender: Live in Concert_][atla-concert] was a multimodal experience. A small chamber orchestra performed selections from the soundtrack in real time with scenes from the show. What made this concert experience truly special is that despite the show's release 20 years ago, the only soundtrack widly avaiable is for the first "book" or season of the show, while the concert included selections from the other two books as well.
 
 ### The Logisitcs
@@ -69,3 +73,11 @@ While there was definite room for improvement, the experience of _Avatar the Las
 [atla-wiki]: https://en.wikipedia.org/wiki/Avatar:_The_Last_Airbender
 [atla-concert]: https://www.avatarinconcert.com/#about
 [dpac]: https://www.dpacnc.com/events/detail/avatar-2024
+
+[atla-logo]:https://preview.redd.it/every-time-i-get-excited-for-the-new-live-action-i-remember-v0-igcy3bz3w0pb1.jpg?width=640&crop=smart&auto=webp&s=72eefcb76db65c5c73f14d7d85b0b76d259c5df5
+[katara-sokka-aang]: https://static1.srcdn.com/wordpress/wp-content/uploads/2020/11/Aang-Katara-and-Sokka-in-Avatar-The-Last-Airbender.jpg
+[zuko]: https://static1.cbrimages.com/wordpress/wp-content/uploads/2020/07/Avatar-The-Last-Airbender-Zuko-Book-1.jpg
+[zhao]:https://oyster.ignimgs.com/mediawiki/apis.ign.com/avatar-the-last-airbender/b/b2/Zhao1.jpg
+[azula]:https://static1.srcdn.com/wordpress/wp-content/uploads/2020/05/Avatar-The-Last-Airbender-Azula-.jpg
+[ozai]: https://static.wikia.nocookie.net/avatar/images/4/4a/Ozai.png/revision/latest?cb=20130612170743
+[atla-concert-poster]: https://images.squarespace-cdn.com/content/v1/6508c14f76350a2a83f1c16b/d461186a-fabe-4688-bb99-ab4ab9bce51e/ATLA+In+Concert+-+Web+Assets.jpg?format=1000w
