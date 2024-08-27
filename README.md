@@ -80,7 +80,7 @@ What I found most impressive about the muscianship was the use of vocal percussi
 ### The Not so Good
 While I understand the need to condense the show to fit within the 2 hour and 40 minute run time, I felt as though a few piovotal plot points were not fully developed and certain characters were not featured as often as they should be. For example, two memebers of Team Avatar, as the main group of characters that travel with Aang through his trainin are referred to in the show, Sokka and Toph each had one moment of solo feature, but then were scarely featured in the music and the visual scenes provided. Additionally certain characters were never formally introduced, but were featured in several scenes, such as Mai and Ty Lee, Azula's companions. This led to a disjointed version of the plot that meant that experience could only really be enjoyed by those who had seen the show before.
 
-### The Final Verdit
+### The Final Verdict
 While there was definite room for improvement, the experience of _Avatar the Last Airbender: Live in Concert_ was one that I will not be soon to forget and has changed my perception of the soundtrack as a whole. I look forward to rewatching the show with the perspective I now have on the score behind the scenes.
 
 
