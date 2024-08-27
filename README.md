@@ -22,7 +22,7 @@ The story takes place over three "books" or seasons— one for each additional e
 2. earth
 3. fire
 
-The story is so revered for its ability to conquer tough themes such as "war, genocide, imperialism, colonialism and totalitarianism, gender discrimination and female empowerment, marginalization and oppression, spirituality, as well as the philosophical questions surrounding fate, destiny, and free will", while still maintaining its position as a children's tv series. (source)
+The story is so revered for its ability to conquer tough themes such as "war, genocide, imperialism, colonialism and totalitarianism, gender discrimination and female empowerment, marginalization and oppression, spirituality, as well as the philosophical questions surrounding fate, destiny, and free will", while still maintaining its position as a children's tv series. [(source)][atla-wiki]
 
 ### The Characters
 ![Katara, Aang, and Sokka from avatar the last airbender][katara-sokka-aang]
