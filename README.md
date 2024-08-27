@@ -13,7 +13,7 @@ Within the population of each of these nations are people known as "benders" who
 3. fire
 4. air 
 
-The show begins in _media res_, dropping the viewer into the fray of a 100-year world war. It is revealed that the Fire Nation had launched an attack on all of the other nations intended to assert dominance over the rest of the nations and gain control of the whole world. They were able to continue this fight for so long because the Avatar had dissapeared in the world's time of need. 
+The show begins _in medias res_, dropping the viewer into the fray of a 100-year world war. It is revealed that the Fire Nation had launched an attack on all of the other nations intended to assert dominance over the rest of the nations and gain control of the whole world. They were able to continue this fight for so long because the Avatar had dissapeared in the world's time of need. 
 
 The show follows the story of the newly returned Avatar and his quest to master all four elements in order to defeat the Fire Lord and bring peace and balance to the world. 
 
