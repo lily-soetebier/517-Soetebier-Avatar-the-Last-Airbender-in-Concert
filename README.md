@@ -14,7 +14,7 @@ The show follows the story of the newly returned Avatar and his quest to master 
 The story takes place over three "books" or seasons— one for each additional element the Avatar, an airbender by birth, needs to master:
 Water, Earth, and Fire.
 
-The story is so revered for its ability to conquer tough themes such as "war, genocide, imperialism, colonialism and totalitarianism, gender discrimination and female empowerment, marginalization and oppression, spirituality, as well as the philosophical questions surrounding fate, destiny, and free will", while still maintaining its position as a children's tv series. (source)
+The story is so revered for its ability to conquer tough themes such as "war, genocide, imperialism, colonialism and totalitarianism, gender discrimination and female empowerment, marginalization and oppression, spirituality, as well as the philosophical questions surrounding fate, destiny, and free will", while still maintaining its position as a children's tv series. [(source)][atla-wiki]
 
 ### The Characters
 The main trio of the show are: Aang, an air nomad by birth and the young avatar, Katara, the last surviving waterbender in the Souther Water Tribe, and Sokka, a non-bending Southern Water Tribe warrior and Katara's older brother.
