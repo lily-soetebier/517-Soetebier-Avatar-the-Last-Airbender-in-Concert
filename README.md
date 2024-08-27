@@ -29,6 +29,7 @@ The story is so revered for its ability to conquer tough themes such as "war, ge
 The main trio of the show are: Aang, an air nomad by birth and the young avatar, Katara, the last surviving waterbender in the Souther Water Tribe, and Sokka, a non-bending Southern Water Tribe warrior and Katara's older brother.
 
 ![Prince Zuko with Book 1 Hair][zuko] ![Comannder Zhao][zhao] ![Azula][azula] ![Fire Lord Ozai][ozai]
+
 While the Fire Nation as a whole is considered the enemy, the main antagonists of the show are Prince Zuko, the banished Fire Nation prince who was tasked with capturing the Avatar for the fire nation so that he could return home and regain his honor, Commander Zhao, a military leader loyal to the Fire Lord who wants to thwart Prince Zuko's mission to capture the Avatar while conquering the North Water Tribe, Princess Azula, Zuko's younger sister who's trauma has turned her into a ruthless and relentless solider for the fire nation, and Fire Lord Ozai, the leader of the Fire Nation who intends to end the war in conquest no matter the cost.
 
 **Other notable characters include:** 
